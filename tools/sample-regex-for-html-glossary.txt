@@ -1,0 +1,5 @@
+Find
+^(.*)concept(.*)\-
+
+Replace
+<concept><prefLabel$2</prefLabel><definition>
